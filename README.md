@@ -39,7 +39,7 @@ C++, C, JavaScript, TypeScript
 - Real-time notifications and responsive design.
 - **Tech:** MERN Stack (MongoDB, Express.js, React.js, Node.js), JWT, Bcrypt, Bootstrap
 
-### [WANDURLUST](#) — Hotel Discovery Platform
+### WANDURLUST — Hotel Discovery Platform
 - Hotel discovery with real-time feedback/review system.
 - MVC architecture, error handling, flash messaging, form validation.
 - Optimized for mobile and desktop.
