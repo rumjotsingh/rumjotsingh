@@ -1,12 +1,20 @@
-# Hi there 👋, I'm Rumjot Singh
+# 👋 Hey, I'm Rumjot Singh
 
 <div align="center">
 
-### Full-Stack Developer • React & Next.js Enthusiast • Problem Solver
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:14b8a6&text=Rumjot%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-Building scalable web applications, optimizing performance, and creating user experiences that people love.
+### Frontend Engineer • Full-Stack Developer • React • Next.js • Flutter
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+TypeScript;MERN+Stack+Developer;Building+Scalable+Applications" />
+Building scalable web applications, modern mobile experiences, and production-grade software.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,mongodb,flutter,firebase,cpp" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rumjotsingh&label=Profile+Views&color=14b8a6&style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -14,55 +22,115 @@ Building scalable web applications, optimizing performance, and creating user ex
 
 ## 🚀 About Me
 
-🎓 Pursuing **B.Tech Computer Science & Engineering** (2027)
+💼 Software Engineer Intern building production software used by real customers
 
-💼 **Software Engineer Intern @ SortKaro**
+🎓 B.Tech Computer Science & Engineering (2027)
 
-⚡ Passionate about **Frontend Engineering, Full-Stack Development, and System Design**
+⚡ Passionate about Frontend Engineering, Full-Stack Development & Mobile Apps
 
-🌱 Currently learning **Advanced React Patterns, Next.js, Backend Architecture & DSA**
+🏗️ Building scalable CRM platforms, dashboards, and customer-facing products
 
-🎯 Goal: Join a world-class engineering team and build products used by millions
+🧠 Solved 500+ DSA problems
 
----
-
-## 🛠 Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
-
-### Database & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+🎯 Aspiring Software Engineer focused on building products at scale
 
 ---
 
-## 💼 Experience
+## 🧺 Currently Building
+
+### Venvo — Premium Garment Care Platform
+
+A modern mobile application focused on premium laundry, dry cleaning, steam ironing, and doorstep garment care services.
+
+#### Features
+
+📦 Real-Time Order Tracking
+
+🚚 Pickup & Delivery Scheduling
+
+💳 Secure Online Payments
+
+🔔 Push Notifications
+
+📍 Live Order Updates
+
+👤 Customer Dashboard
+
+📊 Order Analytics & History
+
+🎁 Subscription Plans
+
+#### Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
+
+**Flutter • Firebase • Material 3 • Razorpay • Notifications**
+
+---
+
+## 💼 Professional Experience
 
 ### Software Engineer Intern | SortKaro
 
-📈 Improved application performance by **60%**, reducing page load times from **5s → 2s**
+**May 2025 – Present**
 
-🏗 Built scalable CRM and dashboard interfaces using **React, Redux, and TypeScript**
+#### Impact
 
-💳 Integrated secure payment gateway solutions for real-time transactions
+✅ Built production CRM platform supporting internal operations
 
-♻️ Designed reusable component architecture to accelerate development
+✅ Developed booking management workflows supporting 1500+ bookings
 
-🤝 Collaborated with cross-functional teams to solve production-scale challenges
+✅ Delivered customer management systems serving 1000+ active customers
+
+✅ Reduced manual operations by 90% through workflow automation
+
+✅ Improved application performance by 60%
+
+✅ Integrated secure Razorpay payment systems
+
+#### Engineering Contributions
+
+* Developed reusable component architecture using React, TypeScript, TailwindCSS, and ShadCN
+* Implemented lazy loading and code splitting
+* Optimized rendering using memoization techniques
+* Built scalable folder structures and maintainable frontend systems
+* Collaborated with backend engineers and business teams to ship production features
+
+---
+
+## 🛠 Tech Arsenal
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
+</p>
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts" />
+</p>
 
 ---
 
@@ -70,56 +138,130 @@ Building scalable web applications, optimizing performance, and creating user ex
 
 ### 🚗 AUTOHOOD
 
-Full-stack car marketplace platform with authentication, reviews, ownership controls, and real-time notifications.
+Production-Ready Automotive Marketplace Platform
 
-**Tech Stack**
-`React` `Node.js` `Express.js` `MongoDB` `JWT` `Bootstrap`
+#### Highlights
+
+* Multi-role Authentication System
+* Admin Dashboard
+* Dealer Dashboard
+* Customer Dashboard
+* Vehicle Listings Management
+* Test Drive Booking System
+* Inventory Management
+* Secure Payment Integration
+* Order Tracking
+* Responsive Design
+
+#### Tech Stack
+
+React • TypeScript • TailwindCSS • Node.js • Express.js • MongoDB
+
+---
 
 ### 🏨 WANDERLUST
 
-Hotel discovery platform with reviews, authentication, MVC architecture, and robust error handling.
+Hotel Discovery & Booking Platform
 
-**Tech Stack**
-`Node.js` `Express.js` `MongoDB` `Bootstrap` `EJS`
+#### Highlights
 
-### 📱 More Projects Coming Soon...
+* Property Listings
+* Authentication System
+* Reviews & Ratings
+* Search & Filtering
+* Cloudinary Image Uploads
+* Session Management
+* Mobile Responsive UI
+* RESTful Backend Architecture
 
-Always building, learning, and shipping new products.
+#### Tech Stack
+
+Node.js • Express.js • MongoDB Atlas • Cloudinary • Bootstrap • EJS
+
+---
+
+## 📈 Engineering Focus
+
+⚡ Frontend Architecture
+
+🚀 Next.js Optimization
+
+📱 Flutter Development
+
+🏗 Component Systems
+
+🎨 UI/UX Engineering
+
+☁️ Full-Stack Applications
+
+🔥 Firebase Ecosystem
+
+🧠 Data Structures & Algorithms
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rumjotsingh&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumjotsingh&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rumjotsingh&theme=tokyonight"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rumjotsingh&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumjotsingh&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rumjotsingh&theme=github-dark-blue&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 🏆 Achievements
 
-🏅 Built production-ready applications using the MERN stack
+🏅 Solved 500+ Problems on LeetCode
 
-🏅 Optimized web application performance by 60%
+🏅 Built Production Software Used by 1000+ Customers
 
-🏅 Solved 300+ DSA problems
+🏅 Improved Application Performance by 60%
 
-🏅 Contributed to real-world startup products
+🏅 Reduced Manual Operations by 90%
+
+🏅 Secured 3rd Position Twice in University Semester Examinations
+
+🏅 Winner of ₹5000 State-Level Science Quiz Competition
 
 ---
 
-## 🤝 Let's Connect
+## 🎓 Education
+
+### B.Tech in Computer Science & Engineering
+
+Seth Jai Parkash Mukand Lal Institute of Engineering & Technology
+
+📅 2023 – 2027
+
+📊 CGPA: 8.70 / 10
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/rumjot-singh-747129281/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/rumjotsingh">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
 
 📧 Email: [rumjotsingh12345@example.com](mailto:rumjotsingh12345@example.com)
 
 💼 LinkedIn: https://www.linkedin.com/in/rumjot-singh-747129281/
-
-🌐 Portfolio: Coming Soon
 
 🐙 GitHub: https://github.com/rumjotsingh
 
@@ -127,8 +269,10 @@ Always building, learning, and shipping new products.
 
 <div align="center">
 
-### "Code. Learn. Build. Repeat."
+### 🚀 Building • Learning • Shipping
 
-⭐ If you like my work, consider starring my repositories.
+*"Great software is built one iteration at a time."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:14b8a6"/>
