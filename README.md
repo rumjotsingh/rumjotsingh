@@ -1,56 +1,134 @@
-# 👋 Hi, I'm Rumjot Singh
+# Hi there 👋, I'm Rumjot Singh
 
-## 🚀 About Me
-I'm a results-driven **Full-stack Software Engineer** specializing in performance optimization and modern web development. Currently pursuing a B.Tech in Computer Science and Engineering (expected May 2027), I thrive on building scalable, responsive, and efficient web applications.
+<div align="center">
 
-- 🏢 **Current Role:** Software Engineer Intern @ SortKaro (Remote)
-- 🎓 **Education:** B.Tech in Computer Science and Engineering, Seth Jai Prakash Mukand Lal Institute of Engineering and Technology, Haryana, India
-- 💡 **Looking for:** Frontend / Full-stack developer roles at leading technology companies
+### Full-Stack Developer • React & Next.js Enthusiast • Problem Solver
 
-## 🛠️ Skills & Technologies
+Building scalable web applications, optimizing performance, and creating user experiences that people love.
 
-**Frontend:**  
-React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Redux, Bootstrap
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+TypeScript;MERN+Stack+Developer;Building+Scalable+Applications" />
 
-**Backend:**  
-Node.js, Express.js, REST APIs, JWT Authentication, Bcrypt
-
-**Database & Tools:**  
-MongoDB, Git, GitHub, Version Control
-
-**Programming Languages:**  
-C++, C, JavaScript, TypeScript
-
-## 🏆 Experience
-
-### Software Engineer Intern — SortKaro _(May 2025 - Present)_
-
-- Engineered 60% performance improvement, reducing page load time from 5s to 2s via React and Next.js optimization.
-- Architected and developed responsive CRM/portal UI/UX systems with React, Redux, and TypeScript.
-- Integrated dynamic payment gateways for secure real-time transaction processing.
-- Designed component-based architecture improving code reusability and development efficiency.
-- Delivered scalable web apps in cross-functional teams, resolving critical performance bottlenecks.
-
-## 💻 Selected Projects
-
-### AUTOHOOD — Full-Stack Car Marketplace Platform
-- Secure full-stack car marketplace with JWT authentication and CRUD operations.
-- User review/rating system, ownership controls, 100+ active car listings.
-- Real-time notifications and responsive design.
-- **Tech:** MERN Stack (MongoDB, Express.js, React.js, Node.js), JWT, Bcrypt, Bootstrap
-
-### WANDURLUST — Hotel Discovery Platform
-- Hotel discovery with real-time feedback/review system.
-- MVC architecture, error handling, flash messaging, form validation.
-- Optimized for mobile and desktop.
-- **Tech:** MongoDB, Express.js, Node.js, Bootstrap, MVC, EJS Templating
-
-## 📫 Contact
-
-- **Email:** [rumjotsingh12345@example.com]
-- **LinkedIn:** [https://www.linkedin.com/in/rumjot-singh-747129281/]
-- **GitHub:** [github.com/rumjotsingh](https://github.com/rumjotsingh)
+</div>
 
 ---
 
-_Seeking opportunities to contribute to impactful projects and innovative teams!_
+## 🚀 About Me
+
+🎓 Pursuing **B.Tech Computer Science & Engineering** (2027)
+
+💼 **Software Engineer Intern @ SortKaro**
+
+⚡ Passionate about **Frontend Engineering, Full-Stack Development, and System Design**
+
+🌱 Currently learning **Advanced React Patterns, Next.js, Backend Architecture & DSA**
+
+🎯 Goal: Join a world-class engineering team and build products used by millions
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+
+### Database & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+
+---
+
+## 💼 Experience
+
+### Software Engineer Intern | SortKaro
+
+📈 Improved application performance by **60%**, reducing page load times from **5s → 2s**
+
+🏗 Built scalable CRM and dashboard interfaces using **React, Redux, and TypeScript**
+
+💳 Integrated secure payment gateway solutions for real-time transactions
+
+♻️ Designed reusable component architecture to accelerate development
+
+🤝 Collaborated with cross-functional teams to solve production-scale challenges
+
+---
+
+## 🚀 Featured Projects
+
+### 🚗 AUTOHOOD
+
+Full-stack car marketplace platform with authentication, reviews, ownership controls, and real-time notifications.
+
+**Tech Stack**
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `Bootstrap`
+
+### 🏨 WANDERLUST
+
+Hotel discovery platform with reviews, authentication, MVC architecture, and robust error handling.
+
+**Tech Stack**
+`Node.js` `Express.js` `MongoDB` `Bootstrap` `EJS`
+
+### 📱 More Projects Coming Soon...
+
+Always building, learning, and shipping new products.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rumjotsingh&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumjotsingh&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rumjotsingh&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+🏅 Built production-ready applications using the MERN stack
+
+🏅 Optimized web application performance by 60%
+
+🏅 Solved 300+ DSA problems
+
+🏅 Contributed to real-world startup products
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: [rumjotsingh12345@example.com](mailto:rumjotsingh12345@example.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/rumjot-singh-747129281/
+
+🌐 Portfolio: Coming Soon
+
+🐙 GitHub: https://github.com/rumjotsingh
+
+---
+
+<div align="center">
+
+### "Code. Learn. Build. Repeat."
+
+⭐ If you like my work, consider starring my repositories.
+
+</div>
