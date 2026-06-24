@@ -2,18 +2,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:14b8a6&text=Rumjot%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:0ea5e9&text=Rumjot%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-### Frontend Engineer • Full-Stack Developer • React • Next.js • Flutter
+### Frontend Engineer • Full Stack Developer • Product Builder
 
-Building scalable web applications, modern mobile experiences, and production-grade software.
+Turning ideas into real web products — from polished interfaces to scalable full-stack applications.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,mongodb,flutter,firebase,cpp" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,mongodb,express,tailwind,cpp" />
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rumjotsingh&label=Profile+Views&color=14b8a6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=rumjotsingh&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
 </p>
 
 </div>
@@ -22,17 +22,46 @@ Building scalable web applications, modern mobile experiences, and production-gr
 
 ## 🚀 About Me
 
-💼 Software Engineer Intern building production software used by real customers
+💼 **Software Engineer Intern @ SortKaro** — building production CRM used by real customers
 
-🎓 B.Tech Computer Science & Engineering (2027)
+🎓 **B.Tech Computer Science & Engineering** (2027) • CGPA **8.70**
 
-⚡ Passionate about Frontend Engineering, Full-Stack Development & Mobile Apps
+📍 **Haryana, India**
 
-🏗️ Building scalable CRM platforms, dashboards, and customer-facing products
+⚡ Passionate about **Frontend Engineering**, **Full-Stack Development** & **shipping real products**
 
-🧠 Solved 500+ DSA problems
+🏗️ Built CRM platforms, dashboards, and customer-facing apps serving **1000+ users**
+
+📦 Managed **1500+ bookings** through production workflows
+
+🧠 Solved **500+ LeetCode** problems
 
 🎯 Aspiring Software Engineer focused on building products at scale
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer Intern (Frontend) | SortKaro
+
+**May 2025 – Present**
+
+#### Impact
+
+✅ Built production CRM platform supporting internal operations  
+✅ Developed booking workflows supporting **1500+ bookings**  
+✅ Delivered customer management for **1000+ active customers**  
+✅ Reduced manual operations by **90%** through workflow automation  
+✅ Improved application performance by **60%**  
+✅ Integrated secure **Razorpay** payment systems  
+
+#### Engineering Contributions
+
+* Reusable component architecture with **React, Next.js, TypeScript, TailwindCSS, ShadCN UI**
+* Lazy loading and code splitting
+* Memoization and render performance optimization
+* Scalable folder structures and maintainable frontend systems
+* Cross-functional collaboration with backend and business teams
 
 ---
 
@@ -40,63 +69,15 @@ Building scalable web applications, modern mobile experiences, and production-gr
 
 ### Venvo — Premium Garment Care Platform
 
-A modern mobile application focused on premium laundry, dry cleaning, steam ironing, and doorstep garment care services.
+A modern mobile app for premium laundry, dry cleaning, steam ironing, and doorstep garment care.
 
-#### Features
-
-📦 Real-Time Order Tracking
-
-🚚 Pickup & Delivery Scheduling
-
-💳 Secure Online Payments
-
-🔔 Push Notifications
-
-📍 Live Order Updates
-
-👤 Customer Dashboard
-
-📊 Order Analytics & History
-
-🎁 Subscription Plans
-
-#### Tech Stack
+**Features:** Real-time order tracking • Pickup & delivery scheduling • Secure payments • Push notifications • Customer dashboard • Subscription plans
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,firebase" />
 </p>
 
 **Flutter • Firebase • Material 3 • Razorpay • Notifications**
-
----
-
-## 💼 Professional Experience
-
-### Software Engineer Intern | SortKaro
-
-**May 2025 – Present**
-
-#### Impact
-
-✅ Built production CRM platform supporting internal operations
-
-✅ Developed booking management workflows supporting 1500+ bookings
-
-✅ Delivered customer management systems serving 1000+ active customers
-
-✅ Reduced manual operations by 90% through workflow automation
-
-✅ Improved application performance by 60%
-
-✅ Integrated secure Razorpay payment systems
-
-#### Engineering Contributions
-
-* Developed reusable component architecture using React, TypeScript, TailwindCSS, and ShadCN
-* Implemented lazy loading and code splitting
-* Optimized rendering using memoization techniques
-* Built scalable folder structures and maintainable frontend systems
-* Collaborated with backend engineers and business teams to ship production features
 
 ---
 
@@ -117,86 +98,87 @@ A modern mobile application focused on premium laundry, dry cleaning, steam iron
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" />
 </p>
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚗 AUTOHOOD
+### 📊 SortKaro CRM Platform
 
-Production-Ready Automotive Marketplace Platform
+Production-grade SaaS CRM for customer & booking management at SortKaro.
 
-#### Highlights
+**Impact:** 1000+ customers • 1500+ bookings • 90% workflow reduction • 60% faster load times
 
-* Multi-role Authentication System
-* Admin Dashboard
-* Dealer Dashboard
-* Customer Dashboard
-* Vehicle Listings Management
-* Test Drive Booking System
-* Inventory Management
-* Secure Payment Integration
-* Order Tracking
-* Responsive Design
-
-#### Tech Stack
-
-React • TypeScript • TailwindCSS • Node.js • Express.js • MongoDB
+**Tech:** React • Next.js • TypeScript • TailwindCSS • ShadCN UI • Razorpay
 
 ---
 
-### 🏨 WANDERLUST
+### 🚗 AUTOHOOD
 
-Hotel Discovery & Booking Platform
+[Live Demo](https://auto-hood.vercel.app/) • [GitHub](https://github.com/rumjotsingh/AutoHood)
 
-#### Highlights
+Full-stack automotive marketplace with multi-role authentication and dealer dashboards.
 
-* Property Listings
-* Authentication System
-* Reviews & Ratings
-* Search & Filtering
-* Cloudinary Image Uploads
-* Session Management
-* Mobile Responsive UI
-* RESTful Backend Architecture
+**Highlights:** Admin & dealer dashboards • Vehicle listings • Test drive booking • Inventory management • Payment integration • Order tracking
 
-#### Tech Stack
+**Tech:** React • TypeScript • Node.js • Express.js • MongoDB • TailwindCSS
 
-Node.js • Express.js • MongoDB Atlas • Cloudinary • Bootstrap • EJS
+---
+
+### 🏨 WANDURLUST
+
+[Live Demo](https://wandurlust-thus.onrender.com) • [GitHub](https://github.com/rumjotsingh/WandurLust)
+
+Hotel discovery & booking platform inspired by Airbnb.
+
+**Highlights:** Property listings • Auth • Reviews & ratings • Search filters • Cloudinary uploads • Responsive UI
+
+**Tech:** Node.js • Express.js • MongoDB • EJS • Bootstrap • Cloudinary
+
+---
+
+## 📂 More Projects
+
+| Project | Description | Live | Repo |
+| --- | --- | --- | --- |
+| My Zoom | Real-time video conferencing | [Demo](https://my-zoom-psi.vercel.app/) | [GitHub](https://github.com/rumjotsingh/my-zoom) |
+| LinkedIn Clone | Professional networking platform | [Demo](https://linkdenclone.vercel.app) | [GitHub](https://github.com/rumjotsingh/Linkdenclone) |
+| CredMatrix | Fintech dashboard platform | [Demo](https://cred-matrix.vercel.app/) | [GitHub](https://github.com/rumjotsingh/CredMatrix) |
+| E-Commerce | Full shopping platform | [Demo](https://ecommerce-one-green-34.vercel.app/) | [GitHub](https://github.com/rumjotsingh/Ecommerce) |
+| Weather App | Global weather application | [Demo](https://weather-app-theta-two-88.vercel.app/) | [GitHub](https://github.com/rumjotsingh/Weather-app) |
+| Question Tracker | DSA progress tracking tool | [Demo](https://question-tracker-six.vercel.app) | [GitHub](https://github.com/rumjotsingh/question-tracker) |
+| Code Innovation | Developer showcase platform | [Demo](https://code-innovation.vercel.app) | [GitHub](https://github.com/rumjotsingh/Code-Innovation) |
+| Simon Says | Memory pattern game | [Demo](https://simonsays-kappa-swart.vercel.app/) | [GitHub](https://github.com/rumjotsingh/simonsays) |
+| Country Flag Quiz | Educational flag quiz | [Demo](https://country-omega-nine.vercel.app/) | [GitHub](https://github.com/rumjotsingh/CountryFlag) |
+
+**11+ projects built** • All deployed with live demos on Vercel & Render
 
 ---
 
 ## 📈 Engineering Focus
 
-⚡ Frontend Architecture
-
-🚀 Next.js Optimization
-
-📱 Flutter Development
-
-🏗 Component Systems
-
-🎨 UI/UX Engineering
-
-☁️ Full-Stack Applications
-
-🔥 Firebase Ecosystem
-
-🧠 Data Structures & Algorithms
+⚡ Frontend Architecture  
+🚀 Next.js Optimization  
+📱 Flutter Development  
+🏗 Component Systems  
+🎨 UI/UX Engineering  
+☁️ Full-Stack Applications  
+🔥 Firebase Ecosystem  
+🧠 Data Structures & Algorithms  
 
 ---
 
@@ -220,17 +202,12 @@ Node.js • Express.js • MongoDB Atlas • Cloudinary • Bootstrap • EJS
 
 ## 🏆 Achievements
 
-🏅 Solved 500+ Problems on LeetCode
-
-🏅 Built Production Software Used by 1000+ Customers
-
-🏅 Improved Application Performance by 60%
-
-🏅 Reduced Manual Operations by 90%
-
-🏅 Secured 3rd Position Twice in University Semester Examinations
-
-🏅 Winner of ₹5000 State-Level Science Quiz Competition
+🏅 Solved **500+** problems on LeetCode  
+🏅 Built production software used by **1000+** customers  
+🏅 Improved application performance by **60%**  
+🏅 Reduced manual operations by **90%**  
+🏅 **3rd rank holder twice** in university semester exams  
+🏅 Winner of **₹5000** state-level science quiz competition  
 
 ---
 
@@ -238,11 +215,10 @@ Node.js • Express.js • MongoDB Atlas • Cloudinary • Bootstrap • EJS
 
 ### B.Tech in Computer Science & Engineering
 
-Seth Jai Parkash Mukand Lal Institute of Engineering & Technology
+**Seth Jai Parkash Mukand Lal Institute of Engineering & Technology**
 
-📅 2023 – 2027
-
-📊 CGPA: 8.70 / 10
+📅 2023 – 2027  
+📊 CGPA: **8.70 / 10**
 
 ---
 
@@ -252,18 +228,15 @@ Seth Jai Parkash Mukand Lal Institute of Engineering & Technology
 <a href="https://www.linkedin.com/in/rumjot-singh-747129281/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
 <a href="https://github.com/rumjotsingh">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
 </p>
 
-📧 Email: [rumjotsingh12345@example.com](mailto:rumjotsingh12345@example.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/rumjot-singh-747129281/
-
-🐙 GitHub: https://github.com/rumjotsingh
+📧 **Email:** [rumjotsingh12345@gmail.com](mailto:rumjotsingh12345@gmail.com)  
+💼 **LinkedIn:** https://www.linkedin.com/in/rumjot-singh-747129281/  
+🐙 **GitHub:** https://github.com/rumjotsingh  
+🧩 **LeetCode:** https://leetcode.com/u/Rumjot/  
 
 ---
 
@@ -271,8 +244,8 @@ Seth Jai Parkash Mukand Lal Institute of Engineering & Technology
 
 ### 🚀 Building • Learning • Shipping
 
-*"Great software is built one iteration at a time."*
+*"Turning ideas into reality through code & craft."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:14b8a6"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:0ea5e9"/>
