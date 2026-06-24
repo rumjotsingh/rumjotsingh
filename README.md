@@ -1,78 +1,219 @@
-# 👋 Hey, I'm Rumjot Singh
+#  Hey, I'm Rumjot Singh
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:0ea5e9&text=Rumjot%20Singh&fontSize=42&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:0ea5e9&text=Rumjot%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
 ### Frontend Engineer • Full Stack Developer • Product Builder
 
-Turning ideas into real web products.
+Turning ideas into real web products — from polished interfaces to scalable full-stack applications.
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,mongodb,express,tailwind,cpp" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,mongodb,express,tailwind,cpp" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=rumjotsingh&color=0ea5e9&style=for-the-badge"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rumjotsingh&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-💼 Software Engineer Intern @ **SortKaro** — CRM for **1000+ customers** & **1500+ bookings**  
-🎓 B.Tech CSE (2027) • CGPA **8.70** • Haryana, India  
-🧠 **500+** LeetCode • **11+** deployed projects • **90%** workflow reduction • **60%** perf gain
+💼 **Software Engineer Intern @ SortKaro** — building production CRM used by real customers
 
----
+🎓 **B.Tech Computer Science & Engineering** (2027) • CGPA **8.70**
 
-## Experience
+📍 **Haryana, India**
 
-**Software Engineer Intern (Frontend) | SortKaro** — *May 2025 – Present*
+⚡ Passionate about **Frontend Engineering**, **Full-Stack Development** & **shipping real products**
 
-Built production CRM with React, Next.js, TypeScript, TailwindCSS & ShadCN UI. Shipped dashboards, Razorpay payments, and reusable components.
+🏗️ Built CRM platforms, dashboards, and customer-facing apps serving **1000+ users**
 
----
+📦 Managed **1500+ bookings** through production workflows
 
-## Featured Projects
+🧠 Solved **500+ LeetCode** problems
 
-| Project | Stack | Links |
-| --- | --- | --- |
-| **SortKaro CRM** | React, Next.js, TS, ShadCN | Production @ SortKaro |
-| **AUTOHOOD** | React, Node, MongoDB | [Live](https://auto-hood.vercel.app/) · [Code](https://github.com/rumjotsingh/AutoHood) |
-| **WANDURLUST** | Node, Express, MongoDB | [Live](https://wandurlust-thus.onrender.com) · [Code](https://github.com/rumjotsingh/WandurLust) |
+🎯 Aspiring Software Engineer focused on building products at scale
 
 ---
 
-## Tech Stack
+## 💼 Professional Experience
 
-**Frontend:** React, Next.js, TypeScript, TailwindCSS, ShadCN UI  
-**Backend:** Node.js, Express, REST APIs  
-**Database:** MongoDB, PostgreSQL  
-**Tools:** Git, Docker, Vercel, Razorpay, Postman
+### Software Engineer Intern (Frontend) | SortKaro
+
+**May 2025 – Present**
+
+#### Impact
+
+✅ Built production CRM platform supporting internal operations  
+✅ Developed booking workflows supporting **1500+ bookings**  
+✅ Delivered customer management for **1000+ active customers**  
+✅ Reduced manual operations by **90%** through workflow automation  
+✅ Improved application performance by **60%**  
+✅ Integrated secure **Razorpay** payment systems  
+
+#### Engineering Contributions
+
+* Reusable component architecture with **React, Next.js, TypeScript, TailwindCSS, ShadCN UI**
+* Lazy loading and code splitting
+* Memoization and render performance optimization
+* Scalable folder structures and maintainable frontend systems
+* Cross-functional collaboration with backend and business teams
+
+
+
+## 🛠 Tech Arsenal
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" />
+</p>
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts" />
+</p>
 
 ---
 
-## GitHub Stats
+## 🚀 Featured Projects
+
+### 📊 SortKaro CRM Platform
+
+Production-grade SaaS CRM for customer & booking management at SortKaro.
+
+**Impact:** 1000+ customers • 1500+ bookings • 90% workflow reduction • 60% faster load times
+
+**Tech:** React • Next.js • TypeScript • TailwindCSS • ShadCN UI • Razorpay
+
+---
+
+### 🚗 AUTOHOOD
+
+[Live Demo](https://auto-hood.vercel.app/) • [GitHub](https://github.com/rumjotsingh/AutoHood)
+
+Full-stack automotive marketplace with multi-role authentication and dealer dashboards.
+
+**Highlights:** Admin & dealer dashboards • Vehicle listings • Test drive booking • Inventory management • Payment integration • Order tracking
+
+**Tech:** React • TypeScript • Node.js • Express.js • MongoDB • TailwindCSS
+
+---
+
+### 🏨 WANDURLUST
+
+[Live Demo](https://wandurlust-thus.onrender.com) • [GitHub](https://github.com/rumjotsingh/WandurLust)
+
+Hotel discovery & booking platform inspired by Airbnb.
+
+**Highlights:** Property listings • Auth • Reviews & ratings • Search filters • Cloudinary uploads • Responsive UI
+
+**Tech:** Node.js • Express.js • MongoDB • EJS • Bootstrap • Cloudinary
+
+---
+
+---
+
+## 📈 Engineering Focus
+
+⚡ Frontend Architecture  
+🚀 Next.js Optimization  
+📱 Flutter Development  
+🏗 Component Systems  
+🎨 UI/UX Engineering  
+☁️ Full-Stack Applications  
+🔥 Firebase Ecosystem  
+🧠 Data Structures & Algorithms  
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rumjotsingh&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumjotsingh&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rumjotsingh&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rumjotsingh&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rumjotsingh&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-## Connect
+## 🏆 Achievements
 
-📧 [rumjotsingh12345@gmail.com](mailto:rumjotsingh12345@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/rumjot-singh-747129281/) · 🐙 [GitHub](https://github.com/rumjotsingh) · 🧩 [LeetCode](https://leetcode.com/u/Rumjot/)
+🏅 Solved **500+** problems on LeetCode  
+🏅 Built production software used by **1000+** customers  
+🏅 Improved application performance by **60%**  
+🏅 Reduced manual operations by **90%**  
+🏅 **3rd rank holder twice** in university semester exams  
+🏅 Winner of **₹5000** state-level science quiz competition  
+
+---
+
+## 🎓 Education
+
+### B.Tech in Computer Science & Engineering
+
+**Seth Jai Parkash Mukand Lal Institute of Engineering & Technology**
+
+📅 2023 – 2027  
+📊 CGPA: **8.70 / 10**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/rumjot-singh-747129281/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/rumjotsingh">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+📧 **Email:** [rumjotsingh12345@gmail.com](mailto:rumjotsingh12345@gmail.com)  
+💼 **LinkedIn:** https://www.linkedin.com/in/rumjot-singh-747129281/  
+🐙 **GitHub:** https://github.com/rumjotsingh  
+🧩 **LeetCode:** https://leetcode.com/u/Rumjot/  
+
+---
 
 <div align="center">
 
-**Building • Learning • Shipping**
+### 🚀 Building • Learning • Shipping
+
+*"Turning ideas into reality through code & craft."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0f172a,100:0ea5e9"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:0ea5e9"/>
